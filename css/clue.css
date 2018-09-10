@@ -1,0 +1,22 @@
+body{
+	background-color: orange;
+	margin:0px;
+	background-image: url('images/hi.jpg');
+	background-position: center;
+}
+#head{
+	text-align: center;
+	margin: 0px;
+	background-color: pink;
+	color:orange;
+}
+.nav{
+	margin-left: 0px;
+}
+.section{
+	display: flex;
+	background-color: green
+}
+#ptag{
+font font-family: Pacifico;
+}

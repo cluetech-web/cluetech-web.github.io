@@ -1,0 +1,13 @@
+#ptag{
+	font-family: Pacifico;
+}
+@font-face{
+	src:url('../font/lora/lora-Bold.ttf');
+    font-family: lora-Bold; 
+
+}
+#ptag{
+	font-family: loral-Bold;
+	background-color: purple;
+	font-size: 80px;
+}
